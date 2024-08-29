@@ -69,7 +69,7 @@ After obtaining predictions on the GPU, they are moved to the CPU and converted 
 
 #### Sample Evaluation Output
 ```
-Weighted F1 Score on the validation set: 0.9627
+Weighted F1 Score on the validation set: 0.9127
 ```
 
 ## Conclusion
